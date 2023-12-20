@@ -195,7 +195,7 @@ class Updater {
 
 new Updater(
 	[
-		'name' => 'Nice',                     // Theme Name.
+		'name' => 'nice',                     // Theme Name.
 		'repo' => 'alt-sandip-baikare/nice',             // Theme repository.
 		'slug' => 'nice',                     // Theme Slug.
 		'url'  => 'https://github.com/alt-sandip-baikare/nice/', // Theme URL.
